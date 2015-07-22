@@ -5,6 +5,7 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		// test compare done!!!
 		// test compare done!!!
+		// test pull!!!
 	}
 
 }
